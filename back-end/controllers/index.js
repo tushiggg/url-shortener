@@ -1,0 +1,1 @@
+module.exports.shortIdcontroller = require('./shortId.controller');

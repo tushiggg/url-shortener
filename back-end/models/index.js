@@ -1,0 +1,1 @@
+module.exports.ShortUrl = require('./shortId.module');
